@@ -1,9 +1,9 @@
 
 # kkreiju
 
-Arjay Niño Saguisa
+<p align="center">Arjay Niño G. Saguisa</p>
 
-<p align="center">19</p>
+<p align="center">18</p>
 
 <p align="center">2nd Year - Bachelor of Science in Information Technology</p>
 
