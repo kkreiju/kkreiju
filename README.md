@@ -32,7 +32,7 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kkreiju.github.io)
 
-[![Static Badge](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://facebook.com/kkreiju)
+[![Static Badge](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://facebook.com/kkreijuu)
 
 [![Static Badge](https://img.shields.io/badge/Instagram-f92171?style=for-the-badge&logo=instagram&logoColor=white&color=f92171)](https://instagram.com/arjaysaguisa305)
 
