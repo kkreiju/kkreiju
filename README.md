@@ -7,7 +7,7 @@
 
 <p align="center">2nd Year - Bachelor of Science in Information Technology</p>
 
-![So Me](https://media.discordapp.net/attachments/1123094875940864130/1193245660846235678/20240107_012817_0000.png?ex=65ac039e&is=65998e9e&hm=3b827fe553b89582a1f92da6bd56ad3d00fda5e6619596ac7fcfacb6c0234091&)
+![About Me](https://media.discordapp.net/attachments/1123094875940864130/1193245660846235678/20240107_012817_0000.png?ex=65ac039e&is=65998e9e&hm=3b827fe553b89582a1f92da6bd56ad3d00fda5e6619596ac7fcfacb6c0234091&)
 
 ## 💻Languages
 
@@ -30,7 +30,6 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kkreiju.github.io)
 
 [![Static Badge](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://facebook.com/kkreijuu)
 
