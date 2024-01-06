@@ -7,7 +7,7 @@
 
 <p align="center">2nd Year - Bachelor of Science in Information Technology</p>
 
-![So Me](https://media.discordapp.net/attachments/1039786222463238154/1176857842477711391/97.jpg?ex=65706546&is=655df046&hm=cb5173d1953a885ca489fe31f46998bc120d94d74e4657fdca470c7785ce78e6&=&format=webp&width=1165&height=655)
+![So Me](https://media.discordapp.net/attachments/1123094875940864130/1193245660846235678/20240107_012817_0000.png?ex=65ac039e&is=65998e9e&hm=3b827fe553b89582a1f92da6bd56ad3d00fda5e6619596ac7fcfacb6c0234091&)
 
 ## 💻Languages
 
