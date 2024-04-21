@@ -5,7 +5,7 @@
 
 <p align="center">Second Year</p>
 
-![About Me](https://media.discordapp.net/attachments/1123094875940864130/1193245660846235678/20240107_012817_0000.png?ex=65ac039e&is=65998e9e&hm=3b827fe553b89582a1f92da6bd56ad3d00fda5e6619596ac7fcfacb6c0234091&)
+![About Me](https://cdn.discordapp.com/attachments/1123094875940864130/1193245660846235678/20240107_012817_0000.png?ex=6636711e&is=6623fc1e&hm=4dd7b96652e61e48159d35dd6c72c4359593d07cdee29526118b0e00c5ebeb81&)
 
 ## 💻Languages
 
