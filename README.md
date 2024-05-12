@@ -9,9 +9,13 @@
 
 ## 💻Languages
 
-![Static Badge](https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=649ad2&labelColor=white)
+<!-- [Static Badge](https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=649ad2&labelColor=white) 
+      ![Static Badge](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=649ad2&labelColor=white)
+      ![Static Badge](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=777bb3&labelColor=white&color=777bb3)
+      ![Static Badge](https://img.shields.io/badge/Python-4786b9?style=for-the-badge&logo=python&labelColor=white&color=4786b9)
+-->!
 
-![Static Badge](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=649ad2&labelColor=white)
+
 
 ![Static Badge](https://img.shields.io/badge/C%23-9b4f97?style=for-the-badge&logo=csharp&logoColor=9b4f97&labelColor=white)
 
@@ -19,12 +23,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=coffeescript&logoColor=ec2025&labelColor=white&color=ec2025)
 
-
 ![Static Badge](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=white&color=f0db4f)
-
-![Static Badge](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=777bb3&labelColor=white&color=777bb3)
-
-![Static Badge](https://img.shields.io/badge/Python-4786b9?style=for-the-badge&logo=python&labelColor=white&color=4786b9)
 
 
 ## 🔗 Links
