@@ -13,7 +13,7 @@
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=649ad2&labelColor=white)
 
-![Static Badge](https://img.shields.io/badge/C%23-9b4f97?style=for-the-badge&logo=c%20sharp&logoColor=9b4f97&labelColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-9b4f97?style=for-the-badge&logo=csharp&logoColor=9b4f97&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=e44d26&labelColor=white)
 
@@ -31,6 +31,6 @@
 
 [![Static Badge](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://facebook.com/kkreijuu)
 
-[![Static Badge](https://img.shields.io/badge/Instagram-f92171?style=for-the-badge&logo=instagram&logoColor=white&color=f92171)](https://instagram.com/arjaysaguisa305)
+[![Static Badge](https://img.shields.io/badge/Instagram-f92171?style=for-the-badge&logo=instagram&logoColor=white&color=f92171)](https://instagram.com/_rreijuu)
 
 <p align="center"><i>i play bass :3</i></p>
