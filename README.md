@@ -5,7 +5,7 @@
 
 <p align="center">Second Year</p>
 
-![About Me](https://media.discordapp.net/attachments/1123094875940864130/1239174351207796847/White_Simple_Web_Developer_Resume.png?ex=665665cc&is=6655144c&hm=69fa5a848a97d6f0ba9d8129313bad35ef4bd42daf9cc671250097151e95e9e6&)
+![About Me](https://cdn.discordapp.com/attachments/1123094875940864130/1239174351207796847/White_Simple_Web_Developer_Resume.png?ex=6679fe4c&is=6678accc&hm=7d5520d71b6713bb4781b28fab5e924a4a213fe4963b41b255e7a6b5f6ab12b1&)
 
 ## 💻Languages
 
