@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 
-- I am a Bachelor of Science in Information Technology student from the University of Cebu — Banilad with a passion for developing general technology knowledge. My focus at the moment consists of application development, networking and cybersecurity.
+- I am a Bachelor of Science in Information Technology student from University of Cebu — Banilad with a passion for developing general technology knowledge. My focus at the moment consists of application development, networking and cybersecurity.
 - I spend my free time playing instruments.
 
 <hr>
