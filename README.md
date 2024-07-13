@@ -13,7 +13,6 @@
 - CCNAv7: Introduction to Network Certificate of Course Completion
 - UCB Days 2024 Java Programming Quiz Participant
 - UCB Days 2023 Java Programming Quiz Participant
-- Beehive Entrepreneurship for All Massive Open Online Course (MOOC) State of Accomplishment
 
 <hr>
 <br/>
