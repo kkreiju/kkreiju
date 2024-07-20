@@ -9,6 +9,7 @@
 <hr>
 
 ## 🥇 Activities and Achievements
+- Hack4Gov 2024 Region 7 Top 3 Excellence Awardee
 - Dean's Lister (2022 - 2024)   
 - CCNAv7: Introduction to Network Certificate of Course Completion
 - UCB Days 2024 Java Programming Quiz Participant
