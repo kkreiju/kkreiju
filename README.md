@@ -7,10 +7,17 @@
 
 <hr>
 
-## 🥇 Activities and Achievements
+## 🥇 Achievements
 - Hack4Gov 2024 Region 7 Top 3 Excellence Awardee
 - Dean's Lister (2022 - 2024)   
 - CCNAv7 Certified
+<hr>
+
+## 🥈 Activities
+- UCB Days 2024 Java Programming Quiz Participant
+- ICT Congress Participant (2022-2023)
+- UCB Days 2023 Java Programming Quiz Participant (5th Place)
+
 <hr>
 <br/>
 
