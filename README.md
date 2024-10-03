@@ -24,20 +24,19 @@
 <hr>
 <br/>
 
-<p align="center"> 
-  <a href="https://github.com/kkreiju"><img alt="kkreiju's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kkreiju&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-  <br/>
-</p>
+<p align="center">
+  <a href="https://github.com/kkreiju">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkreiju&theme=radical" alt="kkreiju's GitHub Contribution"/>
+  </a>
   
   <a href="https://github.com/kkreiju">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkreiju&theme=radical&border=7F3FBF&background=0D1117" alt="kkreiju's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/kkreiju">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkreiju&theme=radical" alt="kkreiju's GitHub Contribution"/>
-  </a>
+<p align="center"> 
+  <a href="https://github.com/kkreiju"><img alt="kkreiju's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kkreiju&langs_count=2&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+  <br/>
 </p>
 
 ## 🔗 Social Links
