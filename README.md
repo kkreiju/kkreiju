@@ -10,7 +10,6 @@
 ## 🥇 Achievements
 - Hack4Gov 2024 Region 7 Top 3 Excellence Awardee
 - Dean's Lister (2022 - 2024)   
-- CCNAv7 Certified
 <hr>
 
 ## 🥈 Activities
