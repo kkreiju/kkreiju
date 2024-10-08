@@ -1,4 +1,4 @@
-<h1 align="center">Arjay Niño G. Saguisa</h1>
+<h1 align="center">Hi, I'm Arjay!</h1>
 
 <p align="center">
   <img src="assets/piplup.png" style="width: 40%;" alt="Piplup">
