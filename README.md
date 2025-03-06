@@ -12,7 +12,7 @@ I'm a motivated third year student from University of Cebu - Banilad currently t
 
 ## 🥇 Achievements
 - Hack4Gov 2024 Region 7: Top 3 Excellence Awardee
-- Dean's Lister (2022 - 2024)
+- Dean's Lister (2022 - 2025)
 <hr>
 
 ## 🥈 Activities
