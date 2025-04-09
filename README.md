@@ -17,8 +17,8 @@ I'm a motivated third year student from University of Cebu - Banilad currently t
 
 ## 🥈 Activities
 - UCB Days 2025 UI/UX Design Competition: Morning Session Participant (3rd Place)
+- ICT Congress Participant (2023-2024)
 - UCB Days 2024 Java Programming Quiz Participant
-- ICT Congress Participant (2022-2023)
 - UCB Days 2023 Java Programming Quiz Participant (5th Place)
 
 <hr>
@@ -32,7 +32,9 @@ I'm a motivated third year student from University of Cebu - Banilad currently t
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Robot](https://img.shields.io/badge/Robot-black.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### Databases
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Design Kits
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
