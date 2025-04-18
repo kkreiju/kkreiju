@@ -11,13 +11,15 @@ I'm a motivated third year student from University of Cebu - Banilad currently t
 <hr>
 
 ## 🥇 Achievements
-- Hack4Gov 2024 Region 7: Top 3 Excellence Awardee
+- DataCamp: Associate Python Developer
 - Dean's Lister (2022 - 2025)
+- Hack4Gov 2024 Region 7: Top 3 Excellence Awardee
 <hr>
 
 ## 🥈 Activities
+- HackEstate 2025: Cebu Interschool Hackathon Participant
 - UCB Days 2025 UI/UX Design Competition: Morning Session Participant (3rd Place)
-- ICT Congress Participant (2023-2024)
+- UCB ICT Congress Participant (2023-2024)
 - UCB Days 2024 Java Programming Quiz Participant
 - UCB Days 2023 Java Programming Quiz Participant (5th Place)
 
