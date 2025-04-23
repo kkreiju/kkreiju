@@ -17,6 +17,7 @@ I'm a motivated third year student from University of Cebu - Banilad currently t
 <hr>
 
 ## 🥈 Activities
+- 11th UC ICT Congress Hackathon (2nd Place)
 - HackEstate 2025: Cebu Interschool Hackathon Participant
 - UCB Days 2025 UI/UX Design Competition: Morning Session Participant (3rd Place)
 - UCB ICT Congress Participant (2023-2024)
