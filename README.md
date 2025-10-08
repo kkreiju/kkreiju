@@ -21,7 +21,6 @@ I'm a motivated fourth year student from University of Cebu - Banilad currently 
 - 11th UC ICT Congress Hackathon (2nd Place)
 - HackEstate 2025: Cebu Interschool Hackathon Participant
 - UCB Days 2025 UI/UX Design Competition: Morning Session Participant (3rd Place)
-- UCB ICT Congress Participant (2023-2024)
 - UCB Days 2024 Java Programming Quiz Participant
 - UCB Days 2023 Java Programming Quiz Participant (5th Place)
 
