@@ -17,6 +17,7 @@ I'm a motivated fourth year student from University of Cebu - Banilad currently 
 <hr>
 
 ## 🥈 Activities
+- Hack4Gov 2025 Region 7 Participant (4th Place)
 - Trend Micro uCTF 2025 Participant
 - 11th UC ICT Congress Hackathon (2nd Place)
 - HackEstate 2025: Cebu Interschool Hackathon Participant
